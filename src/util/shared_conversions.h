@@ -1,5 +1,6 @@
 #include <d3d9.h>
 #include <string>
+#include <cstdint>
 
 namespace dxup {
 
