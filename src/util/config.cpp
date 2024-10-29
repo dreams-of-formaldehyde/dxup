@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <map>
 #include <array>
+#include <stdint.h>
 #include <cstdlib>
 
 namespace dxup { 
