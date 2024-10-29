@@ -1,6 +1,7 @@
 #include "shared_conversions.h"
 #include <array>
 #include <d3dcommon.h>
+#include <cstdint>
 
 namespace dxup {
 
